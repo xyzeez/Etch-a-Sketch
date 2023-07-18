@@ -1,0 +1,17 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 480px;
+    aspect-ratio: 1/1;
+    border: 1px solid black;
+}
+
+.box {
+    width: 30px;
+    aspect-ratio: 1/1;
+    box-sizing: border-box;
+}
+
+.box-drawn {
+    background-color: black;
+}
